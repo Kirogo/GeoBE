@@ -271,3 +271,4 @@ C:\1. Projects\Geo\dpmback\obj\Debug\net8.0\refint\geoback.dll
 C:\1. Projects\Geo\dpmback\obj\Debug\net8.0\geoback.pdb
 C:\1. Projects\Geo\dpmback\obj\Debug\net8.0\geoback.genruntimeconfig.cache
 C:\1. Projects\Geo\dpmback\obj\Debug\net8.0\ref\geoback.dll
+C:\1. Projects\Geo\dpmback\obj\Debug\net8.0\geoback.sourcelink.json
